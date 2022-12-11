@@ -29,7 +29,7 @@ const Nav = () => {
   return (
     <nav className="select-none">
       <div className="flex flex-col w-full h-[1370px]">
-        <H2 className="text-center">Features</H2>
+        <H2 className="text-center">Features2</H2>
         <H4></H4>
         <FeaturesList></FeaturesList>
         <ImgClip></ImgClip>
